@@ -7,8 +7,7 @@ public class Calificaciones {
 
     public String mostrarMensaje() {
         return "Bienvenido al curso de " + nombreCurso;
-    //Holisss 
-        
+
     }
     
 }
